@@ -5,7 +5,7 @@ pipeline {
         // Replace with your Docker Hub username and image name
         DOCKER_IMAGE = "your-dockerhub-username/flask-app"
         AWS_REGION = "us-east-1"
-        CLUSTER_NAME = "devops-lab-cluster"
+        CLUSTER_NAME = "devops-lab-v4"
     }
 
     stages {
